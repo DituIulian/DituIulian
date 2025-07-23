@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DituIulian
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning HTML, CSS, Bootstrap and PHP
+- 🌱 I’m currently learning HTML, CSS, Bootstrap, PHP & JS
 - 💞️ I’m looking to collaborate on any project that accepts a noob
 - 📫 How to reach me dituiulian@gmail.com
 
