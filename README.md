@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @DituIulian
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning HTML, CSS, Bootstrap, PHP & JS
-- 💞️ I’m looking to collaborate on any project that accepts a noob
-- 📫 How to reach me dituiulian@gmail.com
+- 👋 Hi, I’m **Iulian Ditu**
+- 👀 I’m passionate about programming and building real, practical projects
+- 🌱 I’m currently learning **Java**
+- 🧰 Previously studied: **HTML, CSS, Bootstrap, PHP & JavaScript**
+- 💼 Looking to collaborate on beginner-friendly projects — I learn fast and love teamwork
+- 📫 You can reach me at: **dituiulian@gmail.com**
+
 
 <!---
 DituIulian/DituIulian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
