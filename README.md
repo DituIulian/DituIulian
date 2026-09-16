@@ -56,7 +56,7 @@ The project helped me gain practical experience with reusable components, respon
 
 ---
 
-## 🛒 GT Shop — Generația Tech *
+## 🛒 GT Shop — Generația Tech 
 
 A collaborative full-stack e-commerce project developed during the **Generația Tech** programme.
 
