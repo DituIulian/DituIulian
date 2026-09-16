@@ -56,7 +56,7 @@ The project helped me gain practical experience with reusable components, respon
 
 ---
 
-## 🛒 GT Shop — Generația Tech
+## 🛒 GT Shop — Generația Tech *
 
 A collaborative full-stack e-commerce project developed during the **Generația Tech** programme.
 
@@ -73,6 +73,7 @@ It gave me practical experience working with a larger project structure, Git col
 💻 [View Repository](https://github.com/DituIulian/Team-3-microproiect)
 
 \* **Demo note:** The backend is hosted on a server that goes to sleep when inactive. On the first visit, it may take around **1 minute** for the backend to start and for the application data to load.
+
 ---
 
 ## 🎬 Movie Website
