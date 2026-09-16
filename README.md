@@ -179,5 +179,3 @@ I'm interested in web development, software projects, collaborative learning and
 ---
 
 > **Learning by building. Improving one project at a time.**
----
-
