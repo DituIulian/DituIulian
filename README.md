@@ -170,10 +170,14 @@ In both cases, I try to understand **why something works**, not only whether it 
 
 # 🤝 Let's Connect
 
-I'm interested in web development, software projects, collaborative learning and experimenting with practical applications of new technologies.
+I'm interested in web development, software projects, collaborative learning and practical applications of new technologies.
 
-💻 [GitHub — DituIulian](https://github.com/DituIulian)
+📧 **Email:** [dituiulian@gmail.com](mailto:dituiulian@gmail.com)
+
+💼 **LinkedIn:** [linkedin.com/in/iulian-dițu-43292420a](https://www.linkedin.com/in/iulian-di%C8%9Bu-43292420a/)
 
 ---
 
 > **Learning by building. Improving one project at a time.**
+---
+
